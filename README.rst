@@ -1,6 +1,6 @@
-=======
+==============
 Astropy
-=======
+==============
 
 .. image:: https://pypip.in/v/astropy/badge.png
     :target: https://pypi.python.org/pypi/astropy
